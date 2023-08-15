@@ -8,3 +8,4 @@ This spreadsheet provides a solid foundation on which Slack admins can analyze d
 - Import Enterprise, Channel, and Member Slack Analytics data into Google Sheets
 - Add extra columns and calculations in each "Modified" sheet.
 - Modify the provided pivot tables to your liking.
+- Yield insights!

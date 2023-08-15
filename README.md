@@ -1,4 +1,4 @@
-# YearSpread: Visualize your year in a spreadsheet
+# Slack Analytics Spreadsheet
 
 This spreadsheet provides a solid foundation on which Slack admins can analyze data associated with their workspace.
 
